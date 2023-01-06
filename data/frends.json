@@ -1,0 +1,52 @@
+{
+    "frends": [
+        {
+            "id": 1,
+            "name": "HIEUTHUHAI",
+            "point": "1000",
+            "win": "200",
+            "lose": "30",
+            "image": "https://media.maybe.vn/attachments/hieuthuhai-khoe-visual-dien-trai-khi-o-nha-mua-dich-nhung-fan-than-tho-vi-gay-di-thay-ro-0-jpg.46416/"
+        },
+        {
+            "id": 2,
+            "name": "Sơn Tùng M-TP",
+            "point": "950",
+            "win": "190",
+            "lose": "40",
+            "image": "https://scontent.fsgn6-2.fna.fbcdn.net/v/t39.30808-6/289693821_582015943280803_2102006602626651935_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=7mZmk3w-IPMAX8wZkRJ&tn=0fC3iWrbHn5FxIT-&_nc_ht=scontent.fsgn6-2.fna&oh=00_AfBUX8UGWIAiEBSzsySL9hqjtnnmtODiDNvKrs_96MgoEA&oe=6392DA64"
+        },
+        {
+            "id":3,
+            "name":"Mono",
+            "point":"900",
+            "win": "185",
+            "lose": "42",
+            "image":"https://scontent.fsgn6-1.fna.fbcdn.net/v/t39.30808-6/311984648_160859786576100_8518632956503718637_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=GR9OXuwvIBAAX9lvdns&_nc_ht=scontent.fsgn6-1.fna&oh=00_AfBmXyQaJzmntobfghu3LiYs6DTPgiqXxearawU0IQ_7pA&oe=639385B9"
+        },
+        {
+            "id": 4,
+            "name": "Ly Ly",
+            "point": "850",
+            "win": "176",
+            "lose": "53",
+            "image":"https://scontent.fsgn6-1.fna.fbcdn.net/v/t39.30808-6/311338089_670032544481783_3313728086134736692_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=wolyHFYtm5IAX8-3v-3&tn=0fC3iWrbHn5FxIT-&_nc_ht=scontent.fsgn6-1.fna&oh=00_AfD_4TrGziP14SDmcjecnPmrJjYKAMNj3A1OA8OsVoJdog&oe=63932006"
+        },
+        {
+            "id": 5,
+            "name": "Lê Dương Bảo Lâm",
+            "point": "800",
+            "win": "170",
+            "lose": "58",
+            "image": "https://scontent.fsgn6-2.fna.fbcdn.net/v/t39.30808-6/283774663_596534071817980_7220279844907686280_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=TOkdsIzCUsMAX8sUXFS&_nc_oc=AQljSPWxANPOSXLRHk82C2eITyzqoWmrsm6Js5xDHPeqMOxm-Bc1YSfCq1JCB2B0x8k&_nc_ht=scontent.fsgn6-2.fna&oh=00_AfAnPxfNUBH_4aN0hDRWeIOwC3kq0MnSZB61yc1oIdFOug&oe=6392A097"
+        },
+        {
+            "id": 6,
+            "name": "Ngô Kiến Huy",
+            "point": "750",
+            "win": "168",
+            "lose": "60",
+            "image": "https://scontent.fsgn12-1.fna.fbcdn.net/v/t39.30808-6/317471800_714466626704054_7156539656485701428_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=TAQRLsSkKtoAX-u-0L3&_nc_ht=scontent.fsgn12-1.fna&oh=00_AfBioK3b_vWcYmp9YsWAJMuCiHiHImPU53l5r6EZwCV0Uw&oe=63936524"
+        }
+    ]
+}
